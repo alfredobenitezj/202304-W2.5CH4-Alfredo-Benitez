@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  min-width: 100vh;
+}
+
+.description {
+  color: purple;
+}
+
+/*# sourceMappingURL=style.css.map */
